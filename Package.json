@@ -1,0 +1,8 @@
+{
+  "name": "shoptok-token-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "agora-access-token": "^2.0.4"
+  }
+}
